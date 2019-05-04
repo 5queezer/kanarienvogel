@@ -107,7 +107,7 @@ enable = false
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
-username = "MunifTanjim"
+username = "5queezer"
 repository = "minimo"
 
 [params.search]
@@ -131,7 +131,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+url = "https://github.com/5queezer/minimo"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -141,4 +141,8 @@ hrefTargetBlank = true
 [languages.en]
 lang = "en"
 languageName = "English"
+weight = 1
+[languages.de]
+lang = "de"
+languageName = "Deutsch"
 weight = 1
